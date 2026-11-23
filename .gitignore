@@ -1,0 +1,48 @@
+# Local secrets and Android SDK paths
+/local.properties
+/secrets.properties
+**/secrets.properties
+*.keystore
+*.jks
+*.p12
+*.pem
+*.key
+
+# Android Studio and Gradle generated files
+.gradle/
+.idea/
+**/build/
+*.iml
+/captures/
+.externalNativeBuild/
+.cxx/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+# Local credentials and configuration
+local.properties
+secrets.properties
+**/local.properties
+**/secrets.properties
+*.keystore
+*.jks
+*.p12
+
+# Generated Android build files
+.gradle/
+**/build/
+*.apk
+*.aab
+.cxx/
+.externalNativeBuild/
+
+# Android Studio local files
+.idea/
+*.iml
+captures/
+.externalNativeBuild/
+
+# OS files
+.DS_Store
+Thumbs.db

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Core Palette -->
+    <color name="primary_navy">#002855</color>
+    <color name="primary_navy_dark">#001835</color>
+    <color name="secondary_blue">#005EB8</color>
+    <color name="accent_blue">#005EB8</color>
+    <color name="accent_blue_light">#E6F0FA</color>
+
+    <!-- Status & Severity Colors -->
+    <color name="severity_road_closed">#DC2626</color>
+    <color name="severity_road_closed_bg">#FEE2E2</color>
+    <color name="severity_very_long_delays">#B91C1C</color>
+    <color name="severity_very_long_delays_bg">#FEE2E2</color>
+    <color name="severity_long_delays">#EA580C</color>
+    <color name="severity_long_delays_bg">#FFEDD5</color>
+    <color name="severity_delays">#D97706</color>
+    <color name="severity_delays_bg">#FEF3C7</color>
+    <color name="severity_normal">#15803D</color>
+    <color name="severity_normal_bg">#DCFCE7</color>
+
+    <!-- UI Backgrounds, Borders & Typography -->
+    <color name="app_background">#F3F6FA</color>
+    <color name="card_background">#FFFFFF</color>
+    <color name="text_primary">#12243A</color>
+    <color name="text_secondary">#526176</color>
+    <color name="text_muted">#64748B</color>
+    <color name="border_color">#E2E8F0</color>
+    <color name="divider_color">#E2E8F0</color>
+</resources>
