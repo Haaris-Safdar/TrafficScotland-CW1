@@ -81,4 +81,3 @@ The automated test suite in `app/src/test/java/com/example/cw1trafficapp/` inclu
   - `testRoadNameExtraction`: Verifies road name regex parsing (e.g. `M8`, `A74(M)`).
   - `testIconCategoryClassification`: Verifies situation mapping into 6 distinct categories.
 
-For full test cases, see [`docs/TEST_PLAN.md`](docs/TEST_PLAN.md) and [`docs/SUBMISSION_DRAFT.md`](docs/SUBMISSION_DRAFT.md).
